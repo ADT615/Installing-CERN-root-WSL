@@ -19,3 +19,5 @@ cd bin
 cd source thisroot.sh
 
 root
+
+export DISPLAY=\"localhost:0\"
