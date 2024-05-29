@@ -1,2 +1,0 @@
-Download https://root.cern/install/all_releases/ or  wget https://root.cern/download/root_v6.32.00.Linux-almalinux9.4-x86_64-gcc11.4.tar.gz
-tar -xzvf root_v6.32.00.Linux-almalinux9.4-x86_64-gcc11.4.tar.gz
